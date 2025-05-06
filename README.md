@@ -1,4 +1,4 @@
-# Salom, men [Ismingiz] 👋
+# Salom, men Abror 👋
 
 ## Frontend Dasturchi | UI/UX Ishqibozi | Ochqoq Manba Hissasi
 
@@ -26,7 +26,6 @@ Mana, men loyihalarimda ishlatadigan texnologiyalar va vositalar:
 - **[Loyiha 2 Nomini](link-to-your-project)** - Frontend ko'nikmalarimni namoyish etadigan interaktiv portfelio sayti.
 - **[Loyiha 3 Nomini](link-to-your-project)** - Pure HTML va CSS yordamida yaratilgan landin sahifasi shabloni, yengil animatsiyalar bilan.
 
-Boshqa ishlarimni [repositoriymda](https://github.com/your-github-username?tab=repositories) topishingiz mumkin.
 
 ---
 
